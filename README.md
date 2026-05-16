@@ -10,9 +10,9 @@
 
 ## 🙋‍♂️ About Me  
 
-I’m a **Computer Science student at AUB** who loves solving problems with code.  
+I'm a **Computer Science student at AUB** who loves solving problems with code.  
 My main focus areas are **Artificial Intelligence** and **Cybersecurity**, where I enjoy combining theory with practical projects.  
-I’m driven by curiosity and the goal of becoming a **software engineer contributing to AI-powered and secure systems**.  
+I'm driven by curiosity and the goal of becoming a **software engineer contributing to AI-powered and secure systems**.  
 
 ---
 
@@ -23,6 +23,7 @@ I’m driven by curiosity and the goal of becoming a **software engineer contrib
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -34,6 +35,7 @@ I’m driven by curiosity and the goal of becoming a **software engineer contrib
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
 ---
@@ -43,16 +45,16 @@ I’m driven by curiosity and the goal of becoming a **software engineer contrib
 - [**Java Projects**](https://github.com/Joeehabre/Java-Projects) ☕  
   A collection of Java CLI & GUI applications demonstrating **object-oriented programming**, **file I/O**, and basic **game development with Swing**.  
 
-- [**Py Projects**](https://github.com/Joeehabre/Py-Projects) 🐍  
-  A set of Python utilities and mini-apps (calculator, weather app, password generator, simple games) showcasing **Python fundamentals and scripting**.
+- [**Python Projects**](https://github.com/Joeehabre/Python-Projects) 🐍  
+  A set of Python utilities and mini-apps (calculator, weather app, password generator, snake game, to-do list) showcasing **Python fundamentals and scripting**.
 
-- [**C-Systems-Projects**](https://github.com/Joeehabre/C-Systems-Projects) 🔧  
-  Educational C systems suite featuring a **mini Unix shell** (pipes, redirection, background jobs) and a **static HTTP/1.0 server**.  
-  *Tech:* C (C11), POSIX, `fork/exec`, `pipe`, `dup2`, TCP sockets, Make.
+- [**C Projects**](https://github.com/Joeehabre/C-Projects) 🔧  
+  Systems programming in C featuring a **mini Unix shell** (pipes, redirection, background jobs) and a **static HTTP/1.0 server**.  
+  *Tech:* C11, POSIX, `fork/exec`, `pipe`, `dup2`, TCP sockets, Make.
 
-- [**Cpp-Projects**](https://github.com/Joeehabre/Cpp-Projects) ⚙️  
-  Modern C++ projects including a **custom data structures library**, **Tic-Tac-Toe AI**, and a **multithreaded downloader**.  
-  *Tech:* C++17, OOP, templates, STL, threads, mutex.
+- [**C++ Projects**](https://github.com/Joeehabre/Cpp-Projects) ⚙️  
+  Modern C++ systems projects: a **header-only hash map** (open addressing, tombstone deletion), a **thread pool** with `std::future` support, a **concurrent file downloader**, and an **unbeatable Tic-Tac-Toe AI** (Minimax + alpha-beta pruning).  
+  *Tech:* C++17/20, templates, STL, `std::thread`, `std::packaged_task`, condition variables.
 
 ---
 
@@ -73,21 +75,11 @@ I’m driven by curiosity and the goal of becoming a **software engineer contrib
 
 ---
 
-## 🌱 Currently Learning  
-
-- 🎓 Computer Science at the **American University of Beirut (AUB)**  
-- 🤖 Specializing in **Artificial Intelligence**  
-- 🔒 Specializing in **Cybersecurity**  
-
-> 📌 *Goal: to grow into a software engineer contributing to secure, AI-powered solutions.*  
-
----
-
 ## 🛠 What I'm Building Now
-- 🐚 A tiny **Unix shell** in C (pipes, redirection, background jobs)
-- 🌐 A minimal **HTTP/1.0 server** (serves static files)
-- 🧭 Next: unit tests + CI for both projects
-- ⚙️ Building modern **C++ projects** — data structures, algorithms, and a Tic-Tac-Toe AI
+
+- ⚙️ Polishing **C++17/20 projects** — hash map, thread pool, concurrent downloader, Minimax AI
+- 🤖 Deepening knowledge in **AI** and **Cybersecurity** at AUB
+- 🔍 Next: unit tests + CI across all projects
 
 ---
 
