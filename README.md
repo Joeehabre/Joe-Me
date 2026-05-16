@@ -12,7 +12,7 @@
 
 I'm a **Computer Science student at AUB** who loves solving problems with code.  
 My main focus areas are **Artificial Intelligence** and **Software Engineering**, where I enjoy combining theory with practical projects.  
-I'm driven by curiosity and the goal of becoming a **software engineer contributing to AI-powered and secure systems**.  
+I'm driven by curiosity and the goal of becoming a **software engineer contributing to AI-powered systems and great software**.  
 
 ---
 
@@ -78,7 +78,7 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
 ## 🛠 What I'm Building Now
 
 - ⚙️ Polishing **C++17/20 projects** — hash map, thread pool, concurrent downloader, Minimax AI
-- 🤖 Deepening knowledge in **AI** and **Software ENgineering** at AUB
+- 🤖 Deepening knowledge in **AI** and **Software Engineering** at AUB
 - 🔍 Next: unit tests + CI across all projects
 
 ---
