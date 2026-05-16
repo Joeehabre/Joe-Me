@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 <b>Computer Science student</b> at the <b>American University of Beirut (AUB)</b><br>
-  💻 Passionate about <b>Software Development</b>, specializing in <b>AI</b> & <b>Cybersecurity</b><br>
+  💻 Passionate about <b>Software Development</b>, specializing in <b>AI</b> & <b>SOftware Engineering</b><br>
   🌍 Based in <b>Lebanon</b>
 </p>
 
