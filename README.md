@@ -30,6 +30,14 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
 </p>
 
 <p align="center">
+  <!-- Frameworks & Databases -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+<p align="center">
   <!-- Tools & IDEs -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -67,7 +75,7 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
   Modern C++ systems projects: a **header-only hash map** (open addressing, tombstone deletion), a **thread pool** with `std::future` support, a **concurrent file downloader**, and an **unbeatable Tic-Tac-Toe AI** (Minimax + alpha-beta pruning).  
   *Tech:* C++17/20, templates, STL, `std::thread`, `std::packaged_task`, condition variables.
 
-- [**AUB Course Review Platform**](https://github.com/Joeehabre/271-Project) 🌐  
+- [**AUB Course Review Platform**](https://github.com/Joeehabre/Course-Reviews-Project) 🌐  
   Full-stack web app where AUB students anonymously review courses and professors — verified access, moderated content.  
   *Tech:* React, Vite, FastAPI, SQLAlchemy, PostgreSQL, Alembic.
 
@@ -98,11 +106,11 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
 
 ---
 
-## 🛠 What I'm Building Now
+## 🛠 What I'm Working On
 
-- 🤖 Building **AI-powered applications** with the Claude API — chatbots, streaming, memory
-- ⚙️ Deepening **C++17/20** systems skills — concurrency, templates, data structures
-- 🎓 Studying **AI & Software Engineering** at AUB
+- 🎓 Studying **AI & Software Engineering** at AUB — focused on algorithms, systems, and ML
+- 🌐 Expanding the **Course Review Platform** — improving search, adding ratings analytics
+- ⚙️ Exploring **low-level systems** deeper — OS concepts, networking, and performance optimization
 
 ---
 
