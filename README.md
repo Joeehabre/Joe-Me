@@ -38,6 +38,13 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
   <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
+<p align="center">
+  <!-- AI / ML -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic_SDK-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</p>
+
 ---
 
 ## 📂 Featured Projects  
@@ -59,6 +66,18 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
 - [**C++ Projects**](https://github.com/Joeehabre/Cpp-Projects) ⚙️  
   Modern C++ systems projects: a **header-only hash map** (open addressing, tombstone deletion), a **thread pool** with `std::future` support, a **concurrent file downloader**, and an **unbeatable Tic-Tac-Toe AI** (Minimax + alpha-beta pruning).  
   *Tech:* C++17/20, templates, STL, `std::thread`, `std::packaged_task`, condition variables.
+
+- [**AUB Course Review Platform**](https://github.com/Joeehabre/271-Project) 🌐  
+  Full-stack web app where AUB students anonymously review courses and professors — verified access, moderated content.  
+  *Tech:* React, Vite, FastAPI, SQLAlchemy, PostgreSQL, Alembic.
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Joeehabre&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
 
 ---
 
