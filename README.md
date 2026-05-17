@@ -42,6 +42,10 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
 
 ## 📂 Featured Projects  
 
+- [**AI Chatbot**](https://github.com/Joeehabre/AI-Chatbot) 🤖  
+  Terminal AI chatbot powered by the **Claude API** — streaming responses, multi-turn memory, switchable personas (coder, tutor, socratic), and save/load conversations.  
+  *Tech:* Python, Anthropic SDK, Rich, streaming API.
+
 - [**Java Projects**](https://github.com/Joeehabre/Java-Projects) ☕  
   A collection of Java CLI & GUI applications demonstrating **object-oriented programming**, **file I/O**, and basic **game development with Swing**.  
 
@@ -77,9 +81,9 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
 
 ## 🛠 What I'm Building Now
 
-- ⚙️ Polishing **C++17/20 projects** — hash map, thread pool, concurrent downloader, Minimax AI
-- 🤖 Deepening knowledge in **AI** and **Software Engineering** at AUB
-- 🔍 Next: unit tests + CI across all projects
+- 🤖 Building **AI-powered applications** with the Claude API — chatbots, streaming, memory
+- ⚙️ Deepening **C++17/20** systems skills — concurrency, templates, data structures
+- 🎓 Studying **AI & Software Engineering** at AUB
 
 ---
 
