@@ -92,8 +92,8 @@ I'm driven by curiosity and the goal of becoming a **software engineer contribut
 ## 📊 GitHub Highlights  
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Joeehabre&show_icons=true&theme=radical"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joeehabre&layout=compact&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joeehabre&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joeehabre&theme=radical"/>
 </p>
 
 <p align="center">
